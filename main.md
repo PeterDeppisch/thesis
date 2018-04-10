@@ -13,3 +13,8 @@ Graphs
 just Discussion
 
 ## Refernces
+[1] primary
+[2] secondary
+
+##Appendix 
+Acknowledgement
